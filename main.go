@@ -17,7 +17,7 @@ func averageNumbers(numbers[]int) float32{
 }
 
 func hello(){
-	fmt.Println("hello world")
+	fmt.Println("hello world, bye")
 }
 
 func main() {
