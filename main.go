@@ -23,6 +23,7 @@ func hello(){
 func main() {
 	fmt.Printf("Avarage numbers [10,4,6,5,7,5]: %.1f", averageNumbers([]int{10,4,6,5,7,5,5,6,5}))
 	hello()
+	fmt.Println("hello guys")
 
 }
 
