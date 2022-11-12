@@ -24,4 +24,5 @@ func main() {
 	}else{
 		fmt.Println("You from other country")
 	}
+	fmt.Println("Goodbye")
 }
